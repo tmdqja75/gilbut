@@ -1,0 +1,15 @@
+{
+    "os": "macOS-12.4-arm64-arm-64bit",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-08-15T10:34:58.221074",
+    "startedAt": "2022-08-15T10:34:57.339508",
+    "docker": null,
+    "cpu_count": 10,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "Seungbeoms-MacBook-Pro.local",
+    "username": "seungbeomha",
+    "executable": "/Users/seungbeomha/opt/anaconda3/envs/tensorflow/bin/python"
+}
